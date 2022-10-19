@@ -1,0 +1,9 @@
+.details{
+    background-image: url(../Assets/Images/covid-19.png.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-size: cover; */
+    height: 100vh;
+    text-align: center;
+    color: black
+}

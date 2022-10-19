@@ -1,0 +1,24 @@
+.CardView{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto;
+    grid-gap: 10px;
+    padding-left: 70px;
+    overflow: hidden;
+}
+
+.Card{
+    background-image: url(../Assets/Images/covid-19-world-tracker.jpg);
+    color: rgb(6, 193, 174) !important;
+}
+
+.button{
+    border-color:rgb(6, 193, 174) ;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: center;
+    
+    font-size: medium;
+    background-color:whitesmoke;
+}
